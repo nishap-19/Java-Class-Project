@@ -1,6 +1,6 @@
 # Java-Class-Project
 
-Jave Programming Class - December 2016
+High School Jave Programming Class - December 2016
 
 Project: create a user interface to view and book plane tickets
 
